@@ -1,0 +1,6 @@
+__debug*
+go-cutter
+.idea
+.vscode
+*.zip
+*.z??
